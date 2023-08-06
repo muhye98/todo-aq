@@ -1,6 +1,6 @@
 'use strict';
 
-let userName = prompt('please enter your name');
+let userName = prompt('pleasse enter your name');
 alert('Welcome Mr/Ms' + " " + userName)
 
 
